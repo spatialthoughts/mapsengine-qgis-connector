@@ -1,3 +1,5 @@
+**Google Maps Engine Connector is now deprecated. The code in this repository is not functional and is there purely for reference purpose only.**
+
 Google Maps Engine Connector for QGIS
 =====================================
 
